@@ -1,0 +1,11 @@
+Rank    School
+1    Insead Business School
+2    Stanford Graduate School of Business
+3    University of Pennsylvania: Wharton
+4    Harvard Business School
+5    University of Cambridge: Judge
+6    London Business School
+7    Columbia Business School
+8    IE Business School
+9    University of Chicago: Booth
+10    Iese Business School
